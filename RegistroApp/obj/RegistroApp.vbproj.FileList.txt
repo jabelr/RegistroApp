@@ -1,0 +1,10 @@
+bin\Debug\RegistroApp.exe
+bin\Debug\RegistroApp.pdb
+bin\Debug\RegistroApp.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\RegistroApp.FrmMain.resources
+obj\Debug\RegistroApp.Resources.resources
+obj\Debug\RegistroApp.vbproj.GenerateResource.Cache
+obj\Debug\RegistroApp.exe
+obj\Debug\RegistroApp.xml
+obj\Debug\RegistroApp.pdb

@@ -1,0 +1,30 @@
+E:\gDevelop\gdevelop v2\RegistroApp\RegistroApp\RegistroApp\obj\Debug\RegistroApp.exe
+E:\gDevelop\gdevelop v2\RegistroApp\RegistroApp\RegistroApp\obj\Debug\RegistroApp.xml
+E:\gDevelop\gdevelop v2\RegistroApp\RegistroApp\RegistroApp\obj\Debug\RegistroApp.pdb
+E:\gDevelop\gdevelop v2\RegistroApp\RegistroApp\RegistroApp\bin\Debug\RegistroApp.exe
+E:\gDevelop\gdevelop v2\RegistroApp\RegistroApp\RegistroApp\bin\Debug\RegistroApp.pdb
+E:\gDevelop\gdevelop v2\RegistroApp\RegistroApp\RegistroApp\bin\Debug\RegistroApp.xml
+E:\gDevelop\gdevelop v2\RegistroApp\RegistroApp\RegistroApp\obj\Debug\ResolveAssemblyReference.cache
+E:\gDevelop\gdevelop v2\RegistroApp\RegistroApp\RegistroApp\obj\Debug\RegistroApp.FrmMain.resources
+E:\gDevelop\gdevelop v2\RegistroApp\RegistroApp\RegistroApp\obj\Debug\RegistroApp.Resources.resources
+E:\gDevelop\gdevelop v2\RegistroApp\RegistroApp\RegistroApp\obj\Debug\RegistroApp.vbproj.GenerateResource.Cache
+E:\gDevelop\gdevelop v2\RegistroApp\RegistroApp\RegistroApp\bin\Release\RegistroApp.exe
+E:\gDevelop\gdevelop v2\RegistroApp\RegistroApp\RegistroApp\bin\Release\RegistroApp.pdb
+E:\gDevelop\gdevelop v2\RegistroApp\RegistroApp\RegistroApp\bin\Release\RegistroApp.xml
+E:\gDevelop\gdevelop v2\RegistroApp\RegistroApp\RegistroApp\obj\Release\ResolveAssemblyReference.cache
+E:\gDevelop\gdevelop v2\RegistroApp\RegistroApp\RegistroApp\obj\Release\RegistroApp.FrmMain.resources
+E:\gDevelop\gdevelop v2\RegistroApp\RegistroApp\RegistroApp\obj\Release\RegistroApp.Resources.resources
+E:\gDevelop\gdevelop v2\RegistroApp\RegistroApp\RegistroApp\obj\Release\RegistroApp.vbproj.GenerateResource.Cache
+E:\gDevelop\gdevelop v2\RegistroApp\RegistroApp\RegistroApp\obj\Release\RegistroApp.exe
+E:\gDevelop\gdevelop v2\RegistroApp\RegistroApp\RegistroApp\obj\Release\RegistroApp.xml
+E:\gDevelop\gdevelop v2\RegistroApp\RegistroApp\RegistroApp\obj\Release\RegistroApp.pdb
+C:\gdevelop\net\RegistroApp\RegistroApp\RegistroApp\obj\Debug\RegistroApp.exe
+C:\gdevelop\net\RegistroApp\RegistroApp\RegistroApp\obj\Debug\RegistroApp.xml
+C:\gdevelop\net\RegistroApp\RegistroApp\RegistroApp\obj\Debug\RegistroApp.pdb
+C:\gdevelop\net\RegistroApp\RegistroApp\RegistroApp\bin\Debug\RegistroApp.exe
+C:\gdevelop\net\RegistroApp\RegistroApp\RegistroApp\bin\Debug\RegistroApp.pdb
+C:\gdevelop\net\RegistroApp\RegistroApp\RegistroApp\bin\Debug\RegistroApp.xml
+C:\gdevelop\net\RegistroApp\RegistroApp\RegistroApp\obj\Debug\ResolveAssemblyReference.cache
+C:\gdevelop\net\RegistroApp\RegistroApp\RegistroApp\obj\Debug\RegistroApp.FrmMain.resources
+C:\gdevelop\net\RegistroApp\RegistroApp\RegistroApp\obj\Debug\RegistroApp.Resources.resources
+C:\gdevelop\net\RegistroApp\RegistroApp\RegistroApp\obj\Debug\RegistroApp.vbproj.GenerateResource.Cache
